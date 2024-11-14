@@ -1,0 +1,6 @@
+1. firstName: Shay lastName: Liberman eMail: courseList: funLink: Favorite TV show is: How I met your mother
+2. firstName: Daniel lastName: Levovsky eMail: dl@braude.com courseList: beep, boop, beep funLink:  
+3. firstName: Yaniv lastName: Shtill eMail: courseList: funLink:  
+4. firstName: Eden lastName: Kantor eMail: courseList: funLink:  
+5. firstName: Diana lastName: Diana eMail: courseList: funLink:  
+6. firstName: Meerna lastName: Meerna eMail: courseList: funLink:  
